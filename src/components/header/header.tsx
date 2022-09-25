@@ -6,7 +6,7 @@ export const Header = () => (
       <h2 className="text-3xl text-cyan-500 font-bold">publitas</h2>
     </div>
     <div>
-      <h2 className="text-3xl">frontend-challenge</h2>
+      <h2 className="text-3xl text-gray-600">frontend-challenge</h2>
     </div>
     <div>
       <h2 className="text-2xl text-cyan-500">
